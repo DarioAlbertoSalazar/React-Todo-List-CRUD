@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You have to create an .env file and inside this file the following fields will be included
+
 PORT = 3000
 PORT_SERVER = 5002
 DB_HOST = 
