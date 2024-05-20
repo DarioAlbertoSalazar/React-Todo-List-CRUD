@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+PORT = 3000
+PORT_SERVER = 5002
+DB_HOST = 
+DB_USER = 
+DB_PASSWORD = 
+DB_NAME = todolist // this is what your database should be called
+JWT_SECRET = 
+
 ## Available Scripts
 
 In the project directory, you can run:
